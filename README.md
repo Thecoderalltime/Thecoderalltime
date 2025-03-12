@@ -1,3 +1,6 @@
+
+<img src="./image/me.png" width="100%" title="github portfolio"/>
+
 - 👋 Hi, I’m @Thecoderalltime
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
